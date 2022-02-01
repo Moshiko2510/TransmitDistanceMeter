@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (VHDL)"
+set corner_file_list {
+	{{"Slow Model"} {Transmit_distance_meter.vho Transmit_distance_meter_vhd.sdo}}
+	{{"Fast Model"} {Transmit_distance_meter_fast.vho Transmit_distance_meter_vhd_fast.sdo}}
+}

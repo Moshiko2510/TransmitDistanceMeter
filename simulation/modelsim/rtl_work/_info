@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\final project\simulation\modelsim
+Elogic
+Z1 w1590497255
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\altera\13.0sp1\final project\simulation\modelsim
+Z6 8C:/altera/13.0sp1/final project/logic.vhd
+Z7 FC:/altera/13.0sp1/final project/logic.vhd
+l0
+L15
+Vn:=;l^T@Ij]?eVFWCbbe91
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1590508056.516000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/final project/logic.vhd|
+Z11 !s107 C:/altera/13.0sp1/final project/logic.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 _Fb0Uc]zYz9DmJ1QFeI>03
+!i10b 1
+Alogic_arc
+R2
+R3
+R4
+DEx4 work 5 logic 0 22 n:=;l^T@Ij]?eVFWCbbe91
+l41
+L35
+Velm;e_z[kXTLHO]g?YTC]2
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 aPgK1L_]7J@W^ZRLBb^:63
+!i10b 1
+Elogic_tb
+Z14 w1590507922
+R3
+R4
+R5
+Z15 8C:/altera/13.0sp1/final project/logic_tb.vhd
+Z16 FC:/altera/13.0sp1/final project/logic_tb.vhd
+l0
+L5
+Vd^nbQ[K^zo9mEG?30oiAe0
+!s100 BVT4K@8X>LoJK_TN0AQ6D2
+R8
+31
+!i10b 1
+Z17 !s108 1590508056.644000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/final project/logic_tb.vhd|
+Z19 !s107 C:/altera/13.0sp1/final project/logic_tb.vhd|
+R12
+R13
+Alogic_tb_arc
+R3
+R4
+DEx4 work 8 logic_tb 0 22 d^nbQ[K^zo9mEG?30oiAe0
+l48
+L10
+V@:9_z5_OOJQ3bE^k`R8A`1
+!s100 chTOn[amN1U7ABB:B5I<82
+R8
+31
+!i10b 1
+R17
+R18
+R19
+R12
+R13

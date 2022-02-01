@@ -1,0 +1,9 @@
+
+State Machine - |Transmit_distance_meter|uart:U2|pstate_tx
+Name pstate_tx.stopbit pstate_tx.paritybit pstate_tx.databits pstate_tx.startbit pstate_tx.txsync pstate_tx.idle 
+pstate_tx.idle 0 0 0 0 0 0 
+pstate_tx.txsync 0 0 0 0 1 1 
+pstate_tx.startbit 0 0 0 1 0 1 
+pstate_tx.databits 0 0 1 0 0 1 
+pstate_tx.paritybit 0 1 0 0 0 1 
+pstate_tx.stopbit 1 0 0 0 0 1 
